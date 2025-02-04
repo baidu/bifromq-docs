@@ -11,7 +11,6 @@ This page lists projects or products that `integrate` with BifroMQ. If your proj
 
 ### IoT Platforms
 
-* [Baidu IoT platform](https://iot.baidu.com/) - Baidu Tiangong IoT platform leverages cloud-edge-device capabilities to offer comprehensive, user-friendly, and industry-specific IoT solutions.
 * [ThingLinks](https://mqttsnet.yuque.com/gt6zkc/thinglinks) - The ThingLinks IoT platform offers diverse and extensive device connectivity capabilities. It helps users collect large amounts of device data and quickly integrate applications to build IoT businesses.
 
 
